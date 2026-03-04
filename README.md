@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Abdelrahman Nasr 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman%20Nasr&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%E2%80%A2%20Angular%20Specialist%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=55&descSize=16" width="100%"/>
 
-### Frontend Developer · Angular Specialist · UI/UX Designer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Angular+Developer;UI%2FUX+Designer;Building+Beautiful+%26+Functional+UIs;Turning+Designs+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Angular+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Beautiful+%26+Functional+UIs+%E2%9C%A8;Turning+Designs+into+Reality+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 I'm a passionate **Frontend Developer** specializing in **Angular** and a creative **UI/UX Designer** who loves bridging the gap between design and development. I craft pixel-perfect, performant, and user-friendly web applications.
 
@@ -20,36 +20,39 @@ I'm a passionate **Frontend Developer** specializing in **Angular** and a creati
 - 💡 Passionate about clean code, component-driven development, and great UX
 - 🤝 Open to collaborating on **open-source projects** and **freelance opportunities**
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### Frontend Development
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<div align="center">
 
-### Libraries & Frameworks
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🌐 Frontend Development
 
-### UI/UX Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass&perline=6&theme=dark" alt="Frontend Skills"/>
+</a>
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+### 📚 Libraries & Frameworks
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rxjs,bootstrap,tailwind,materialui&perline=6&theme=dark" alt="Libraries & Frameworks"/>
+</a>
+
+### 🎨 UI/UX Design Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&perline=6&theme=dark" alt="Design Tools"/>
+</a>
+
+### ⚙️ Tools & Workflow
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux&perline=6&theme=dark" alt="Tools & Workflow"/>
+</a>
+
+</div>
 
 ---
 
@@ -57,14 +60,20 @@ I'm a passionate **Frontend Developer** specializing in **Angular** and a creati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Nasr-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nasr-code&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Nasr-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nasr-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="180" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdelrahman-Nasr-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdelrahman-Nasr-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdelrahman-Nasr-code&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -72,13 +81,31 @@ I'm a passionate **Frontend Developer** specializing in **Angular** and a creati
 
 ## 🎯 What I Do
 
+<div align="center">
+
 | 💻 Frontend Development | 🎨 UI/UX Design |
-|---|---|
+|:---:|:---:|
 | Build scalable Angular applications | Create wireframes & prototypes in Figma |
 | Component-driven architecture | Design intuitive user flows |
 | State management with NgRx/RxJS | Responsive & accessible design |
 | REST API integration | Design systems & component libraries |
 | Performance optimization | User research & usability testing |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman-Nasr-code/Abdelrahman-Nasr-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahman-Nasr-code/Abdelrahman-Nasr-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdelrahman-Nasr-code/Abdelrahman-Nasr-code/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -96,8 +123,10 @@ I'm a passionate **Frontend Developer** specializing in **Angular** and a creati
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 ⭐️ **If you like my work, consider giving a star to my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Nasr-code&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Nasr-code&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
