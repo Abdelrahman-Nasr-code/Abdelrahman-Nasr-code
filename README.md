@@ -61,7 +61,7 @@ I'm a passionate **Frontend Developer** specializing in **Angular** and a creati
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Nasr-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nasr-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Nasr-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="180" alt="Top Languages" />
 
 </div>
 
