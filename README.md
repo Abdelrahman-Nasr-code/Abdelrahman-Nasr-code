@@ -74,24 +74,51 @@
 
 <div align="center">
 
-**Methodologies & Best Practices**
-
-![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-0F2027?style=for-the-badge&logoColor=38BDF8)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0F2027?style=for-the-badge&logoColor=38BDF8)
-![Component-based UI Design](https://img.shields.io/badge/Component--based_UI_Design-0F2027?style=for-the-badge&logoColor=38BDF8)
-![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-0F2027?style=for-the-badge&logo=github&logoColor=38BDF8)
-![SCSS / SASS](https://img.shields.io/badge/SCSS_%2F_SASS-0F2027?style=for-the-badge&logo=sass&logoColor=38BDF8)
-
-**Design Skills**
-
-![UI Design Principles](https://img.shields.io/badge/UI_Design_Principles-0F2027?style=for-the-badge&logoColor=38BDF8)
-![UX Research Basics](https://img.shields.io/badge/UX_Research_Basics-0F2027?style=for-the-badge&logoColor=38BDF8)
-
-**Soft Skills**
-
-![Effective Communication](https://img.shields.io/badge/Effective_Communication-0F2027?style=for-the-badge&logoColor=38BDF8)
-![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-0F2027?style=for-the-badge&logoColor=38BDF8)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-0F2027?style=for-the-badge&logoColor=38BDF8)
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/──────────────────────-0F2027?style=flat&logoColor=38BDF8" alt=""/>
+      <br/>
+      <b>⚙️ Methodologies & Best Practices</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Agile_Methodology-0E3460?style=for-the-badge&logo=jira&logoColor=7DD3FC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Responsive_Web_Design-0E3460?style=for-the-badge&logo=css3&logoColor=7DD3FC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Component--based_UI-0E3460?style=for-the-badge&logo=storybook&logoColor=7DD3FC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-0E3460?style=for-the-badge&logo=github&logoColor=7DD3FC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/SCSS_%2F_SASS-0E3460?style=for-the-badge&logo=sass&logoColor=7DD3FC"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/──────────────────────-0F2027?style=flat&logoColor=38BDF8" alt=""/>
+      <br/>
+      <b>🎨 Design Skills</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/UI_Design_Principles-3B0764?style=for-the-badge&logo=figma&logoColor=C4B5FD"/>
+      <br/>
+      <img src="https://img.shields.io/badge/UX_Research_Basics-3B0764?style=for-the-badge&logo=adobexd&logoColor=C4B5FD"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Design_Systems-3B0764?style=for-the-badge&logo=materialdesign&logoColor=C4B5FD"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Wireframing-3B0764?style=for-the-badge&logo=notion&logoColor=C4B5FD"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/──────────────────────-0F2027?style=flat&logoColor=38BDF8" alt=""/>
+      <br/>
+      <b>🤝 Soft Skills</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Effective_Communication-0F4C3A?style=for-the-badge&logo=googlemeet&logoColor=6EE7B7"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Creative_Thinking-0F4C3A?style=for-the-badge&logo=bulb&logoColor=6EE7B7"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Problem_Solving-0F4C3A?style=for-the-badge&logo=leetcode&logoColor=6EE7B7"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Team_Collaboration-0F4C3A?style=for-the-badge&logo=slack&logoColor=6EE7B7"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
