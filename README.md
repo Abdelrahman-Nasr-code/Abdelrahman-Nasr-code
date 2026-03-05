@@ -50,6 +50,12 @@
 
 <img src="https://skillicons.dev/icons?i=reactivex,bootstrap,tailwind,materialui&perline=6&theme=dark"/>
 
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java&perline=6&theme=dark"/>
+
+![Scratch](https://img.shields.io/badge/Scratch-0F2027?style=for-the-badge&logoColor=38BDF8)
+
 **Design**
 
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&perline=6&theme=dark"/>
@@ -57,6 +63,33 @@
 **Tools & Workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux&perline=6&theme=dark"/>
+
+</div>
+
+---
+
+## 💡 Core Competencies
+
+<div align="center">
+
+**Methodologies & Best Practices**
+
+![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Component-based UI Design](https://img.shields.io/badge/Component--based_UI_Design-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-0F2027?style=for-the-badge&logo=github&logoColor=38BDF8)
+![SCSS / SASS](https://img.shields.io/badge/SCSS_%2F_SASS-0F2027?style=for-the-badge&logo=sass&logoColor=38BDF8)
+
+**Design Skills**
+
+![UI Design Principles](https://img.shields.io/badge/UI_Design_Principles-0F2027?style=for-the-badge&logoColor=38BDF8)
+![UX Research Basics](https://img.shields.io/badge/UX_Research_Basics-0F2027?style=for-the-badge&logoColor=38BDF8)
+
+**Soft Skills**
+
+![Effective Communication](https://img.shields.io/badge/Effective_Communication-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-0F2027?style=for-the-badge&logoColor=38BDF8)
 
 </div>
 
