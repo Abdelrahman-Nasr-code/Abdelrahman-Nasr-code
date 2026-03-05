@@ -52,9 +52,11 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c&perline=6&theme=dark"/>
 
 ![Scratch](https://img.shields.io/badge/Scratch-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Prolog](https://img.shields.io/badge/Prolog-0F2027?style=for-the-badge&logoColor=38BDF8)
+![Clibus](https://img.shields.io/badge/Clibus-0F2027?style=for-the-badge&logoColor=38BDF8)
 
 **Design**
 
