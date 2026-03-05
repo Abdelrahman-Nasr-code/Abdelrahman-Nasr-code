@@ -23,14 +23,16 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
-- 🚀 Passionate frontend engineer bridging **great engineering** and **stunning design**
-- 🔭 Architecting modern **Angular** apps with clean, scalable patterns
-- 🎨 Turning ideas into reality with **Figma**, **Adobe XD** & code
-- ⚡ Mastering **Angular Signals**, **RxJS pipelines** & **Design Tokens**
-- 🌱 Exploring **Micro-frontends**, **Web Performance** & **A11y**
-- 🤝 Open to **open-source** contributions & **freelance** projects
+- 🚀 Passionate **Frontend Engineer** — bridging great engineering with stunning design
+- 🔭 Architecting modern **Angular** apps with clean, scalable, and maintainable patterns
+- 🎨 Crafting pixel-perfect UIs with **Figma**, **Adobe XD** & precise CSS
+- ⚡ Deep expertise in **Angular Signals**, **RxJS**, **NgRx** & **Design Tokens**
+- 🧩 Building reusable **component libraries** and **design systems**
+- 🌱 Exploring **Micro-frontends**, **Web Performance**, **PWA** & **Accessibility (A11y)**
+- 🤝 Open to **open-source** contributions, **collaborations** & **freelance** projects
+- 🏆 Always striving for clean code, great UX, and a fast user experience
 - 📍 Based in **Cairo, Egypt** 🇪🇬
-- ☕ Powered by coffee — *always*
+- ☕ Powered by coffee — *always learning, always building*
 
 <br clear="right"/>
 
@@ -46,11 +48,11 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=rxjs,bootstrap,tailwind,materialui&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=reactivex,bootstrap,tailwind,materialui&perline=6&theme=dark"/>
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&perline=6&theme=dark"/>
 
 **Tools & Workflow**
 
